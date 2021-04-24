@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about Backend Architectures and Frontend Developement.
 - 😄 I’m need learning more about Cloud Architecture and Project Management: Scrum..
 - ⚡ I’m currently working on my Portfolio Website 
-- 📫 How to reach me: ![Linkedin](https://www.linkedin.com/in/jhoanna-castellanos/) 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jhoanna-castellanos/) 
 
 
 ```javascript

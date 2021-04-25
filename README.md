@@ -3,8 +3,8 @@
 - <img src="https://i.pinimg.com/originals/10/b5/53/10b553debe94c2bf0db01f062cf93308.gif" width="370" height="240" align="right"/> 💬 About me: I belong to the Full-Stack Developer and Computer Systems Analysis Student at IRSO. 
 - 🔭 Right now I'm looking for opportunities. I love to learn and contribute in any and every possible way.
 - 🌱 I’m currently learning about Backend Architectures and Frontend Developement.
-- 😄 I’m need to learn more about Cloud Architecture and Project Management: Scrum..
-- ⚡ At the moment or nowadys I'm working on my Portfolio Website 
+- 😄 I need to learn more about Cloud Architecture and Project Management: Scrum..
+- ⚡ At the moment I'm working on my Portfolio Website.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jhoanna-castellanos/) 
 
 

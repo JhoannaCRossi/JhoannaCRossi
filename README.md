@@ -28,7 +28,7 @@ const aboutMe = {
       operatingSystem: ["Windows"],
       softSkills: ["Problem Solving", "TeamWork", "Communication"]
    },
-   currentOccupation: ["first year student, open for job opportunities"]
+   currentOccupation: ["second year student"]
    
 };
 ```

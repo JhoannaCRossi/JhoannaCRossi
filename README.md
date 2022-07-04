@@ -15,6 +15,7 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Java],
    technologies: {
       frontEnd: {
+         reactJS,
          js: ["VanillaJS"],
          css: ["Materialize", "Bootstrap"]
       },
@@ -24,9 +25,9 @@ const aboutMe = {
       databases: ["mySQL"],
       buildTools: ["Maven"],
       servers: ["Tomcat"],
-      versionControl: ["Git"],
+      versionControl: ["Git", "GitLab"],
       IDE: ["VSCode", "Eclipse", "Netbeans"],
-      operatingSystem: ["Windows"],
+      operatingSystem: ["Linux"],
       softSkills: ["Problem Solving", "TeamWork", "Communication"]
    },
    currentOccupation: ["second year student"]

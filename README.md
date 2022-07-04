@@ -25,7 +25,7 @@ const aboutMe = {
       databases: ["mySQL"],
       buildTools: ["Maven"],
       servers: ["Tomcat"],
-      versionControl: ["Git", "GitLab"],
+      versionControl: ["Git"],
       IDE: ["VSCode", "Eclipse", "Netbeans"],
       operatingSystem: ["Linux"],
       softSkills: ["Problem Solving", "TeamWork", "Communication"]

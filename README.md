@@ -12,7 +12,6 @@
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   code: [Javascript, HTML, CSS, Java],
    technologies: {
       frontEnd: {
          reactJS,

@@ -9,9 +9,12 @@
 
 
 ```javascript
+
 const aboutMe = {
    pronouns: "she" | "her",
+   
    technologies: {
+   
       frontEnd: {
          reactJS,
          js: ["VanillaJS"],
@@ -25,6 +28,7 @@ const aboutMe = {
       operatingSystem: ["Linux"],
       softSkills: ["Problem Solving", "TeamWork", "Communication"]
    },
+   
    currentOccupation: ["second year student"]
    
 };

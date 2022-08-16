@@ -4,7 +4,6 @@
 - About me: I belong to the Full-Stack. I'm a Developer and Computer Systems Analysis Student at IRSO. 
 - 🔭 Right now I'm looking for opportunities. I love to learn and contribute in any and every possible way.
 - 🌱 I’m currently learning about Backend Architectures and Frontend Developement.
-- 😄 I need to learn more about Cloud Architecture and Project Management: Scrum..
 - ⚡ At the moment I'm working on my Portfolio Website.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jhoanna-castellanos/) 
 
@@ -16,16 +15,13 @@ const aboutMe = {
       frontEnd: {
          reactJS,
          js: ["VanillaJS"],
-         css: ["Materialize", "Bootstrap"]
+         css: ["tailwind", "Bootstrap"]
       },
       backEnd: {
          java: ["Spring", "Hibernate", "JSP", "JPA", "MVC"],
       },
-      databases: ["mySQL"],
-      buildTools: ["Maven"],
-      servers: ["Tomcat"],
       versionControl: ["Git"],
-      IDE: ["VSCode", "Eclipse", "Netbeans"],
+      IDE: ["VSCode", "Eclipse", "Netbeans", "intellij Idea", "WebStorm"],
       operatingSystem: ["Linux"],
       softSkills: ["Problem Solving", "TeamWork", "Communication"]
    },

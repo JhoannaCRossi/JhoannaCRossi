@@ -23,7 +23,7 @@ const aboutMe = {
       frontEnd: {
          reactJS,
          js: ["VanillaJS"],
-         css: ["tailwind", "Bootstrap"]
+         css: ["material ui", "Bootstrap", "css"]
       },
       backEnd: {
          java: ["Spring", "Hibernate", "JSP", "JPA", "MVC"],
@@ -31,7 +31,7 @@ const aboutMe = {
       versionControl: ["Git"],
       IDE: ["VSCode", "Eclipse", "Netbeans", "intellij Idea", "WebStorm"],
       operatingSystem: ["Linux"],
-      softSkills: ["Problem Solving", "TeamWork", "Communication"]
+      softSkills: ["Problem Solving", "TeamWork", "Communication", "Dont give up"]
    },
    
    currentOccupation: ["second year student"]

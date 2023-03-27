@@ -29,7 +29,7 @@ const aboutMe = {
          java: ["Spring", "Hibernate", "JSP", "JPA", "MVC"],
       },
       versionControl: ["Git"],
-      IDE: ["VSCode", "Eclipse", "Netbeans", "intellij Idea", "WebStorm"],
+      IDE: ["VSCode", "Eclipse", "intellij Idea", "WebStorm"],
       operatingSystem: ["Linux"],
       softSkills: ["Problem Solving", "TeamWork", "Communication", "Dont give up"]
    },
